@@ -1,0 +1,7 @@
+﻿2023-08-16 18:16:35.450 +05:30 [INF] QR code generated successfully for claysys
+2023-08-16 18:17:19.936 +05:30 [INF] QR code generated successfully for str
+2023-08-16 18:18:07.502 +05:30 [INF] QR code generated successfully for string
+2023-08-17 11:58:42.460 +05:30 [INF] QR code generated successfully for https://www.fotor.com/features/add-logo-to-photo/
+2023-09-14 12:56:44.535 +05:30 [INF] QR code generated successfully for sanju
+2023-09-15 20:38:34.588 +05:30 [INF] QR code generated successfully for My Name Is Beena Johnson
+2023-09-15 22:53:37.311 +05:30 [INF] QR code generated successfully for https://www.youtube.com/watch?v=ChH3mgE8JWw
